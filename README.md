@@ -20,3 +20,7 @@ This website is completely responsive and can be used on any device.
  the info about us is also mentioned:
 ![image](https://user-images.githubusercontent.com/92135998/176698224-d5f67588-82aa-4c96-888d-769f6eb1da9f.png)
 
+HTML FILE: index.html
+CSS FILE: styles.css
+JAVASCRIPT FILEA : app.js
+
