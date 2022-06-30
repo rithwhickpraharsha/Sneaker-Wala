@@ -9,7 +9,8 @@ and when we select our interested category above .we get options to choose in th
 choice of colors are also given for the user 
 After selecting  our Item .Now its time for the payment.
 ![image](https://user-images.githubusercontent.com/92135998/176697567-c277cb73-a307-48cf-993e-5aa37d039b4b.png)
-to make payment here is the checkout box 
+this is checkout box for payment.which contains information like address and card information.
+
 Here is polices and return dates are mentioned as shown:
 ![image](https://user-images.githubusercontent.com/92135998/176697845-64328c58-45f4-40cd-9eb8-906abb7af5ef.png)
 
