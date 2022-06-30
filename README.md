@@ -1,12 +1,12 @@
 # Sneaker-Wala
-This a complete responsive Ecommerce website created using HTML,CSS ,JAVASCRIPT .In which categories of sneakers are also availabl, for the customer comfort and we can select sneaker of our favorite category and buy it.
-Here is the working model of Sneaker wala.LetsTake a look at it.
+This a complete responsive Ecommerce website created using HTML,CSS ,JAVASCRIPT .In which categories of sneakers are also available, for the customer comfort and we can select sneaker of our favorite category and buy it.
+Here is the working model of Sneaker wala.Lets Take a look at it.
 ![image](https://user-images.githubusercontent.com/92135998/176697095-52ac7b10-8c7a-479d-b9f7-9b86a44a7fdb.png)
 
 and when we select our interested category above .we get options to choose in that particular type of sneaker.
 ![image](https://user-images.githubusercontent.com/92135998/176697355-dcc7766b-9888-496c-83e8-774fd5979703.png)
 choice of colors are also given for the user 
-After selecting of our Item .Now its time for the payment.
+After selecting  our Item .Now its time for the payment.
 ![image](https://user-images.githubusercontent.com/92135998/176697567-c277cb73-a307-48cf-993e-5aa37d039b4b.png)
 this is the checkout box where we pay for the item we want to purchase 
 Here is polices and return dates are mentioned as shown:
